@@ -2,6 +2,8 @@
 
 A simple weather app built with React, Vite and Material UI.
 
+## 🚀 Live Demo
+https://react-weather-app-five-theta.vercel.app
 ## Features
 - Search weather by city
 - Shows temperature, humidity, min/max temperature
